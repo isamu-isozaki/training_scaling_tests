@@ -1,0 +1,6 @@
+systemname,model,nodes,taskspernode,batch_size,gpus_per_node,mixed_precision,imagespersec,fp,samples/gpu/sec
+jewelsbooster,muse,1,1,16,1,NaN,51.558,32,51.558
+jewelsbooster,muse,1,1,16,2,NaN,78.212,32,39.106
+jewelsbooster,muse,1,1,16,4,NaN,68.66,32,17.165
+jewelsbooster,muse,2,1,16,4,NaN,108.248,32,13.531
+jewelsbooster,muse,4,1,16,4,NaN,153.872,32,9.617
